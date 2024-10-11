@@ -1,1 +1,3 @@
-# The code will be open source later
+# The code will be released later
+
+see https://github.com/finger-monkey/CMPS
