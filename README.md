@@ -1,6 +1,4 @@
-# The code will be released later
-
-see https://github.com/finger-monkey/CMPS
+# The code is available at https://github.com/finger-monkey/CMPS
 
 
 
